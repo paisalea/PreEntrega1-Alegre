@@ -1,0 +1,12 @@
+nickname = ""
+respuesta = true
+palabra = ""
+palabraCifrada = ""
+longitud = 0
+letra = ""
+errores = 0
+aciertos = 0
+i=0
+acierto=0
+palabraCifradaR = ""
+letraEncontrada= false
